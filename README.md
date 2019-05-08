@@ -1,8 +1,7 @@
 # Fine Dust Counter
 
 The fine dust counter is very similar to a geiger counter because it's "displaying" the dust concentration with the typical geiger counter clicking. 
-**The projects aim is to raise awareness for the danger of fine dust.
-**
+**The projects aim is to raise awareness for the danger of fine dust.**
 
 ## Wiring
 ![alt text](media/wiring.jpg)

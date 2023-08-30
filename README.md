@@ -3,6 +3,8 @@
 The particulate matter counter is very similar to a geiger counter because it's "displaying" the dust concentration with the typical geiger counter clicking.
 **The projects aim is to raise awareness for the danger of fine dust.**
 
+Demonstration video can be watched [here](media/demo.mp4)
+
 ## Wiring
 ![alt text](media/wiring.jpg)
 
